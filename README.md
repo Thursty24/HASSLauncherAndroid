@@ -10,3 +10,4 @@ with newer Android versions, Google Play will scan the app to ensure that it is 
 The app locates the Home Assistant App on your device and launches it, you can even choose it as the default home app in the default app settings, if the Home Assistant app isn't installed, it will open up the Google Play Store page for you to install the app.
 
 Hope you guys enjoy this one.
+P.S.: This app runs on Android 5.0 and later.
